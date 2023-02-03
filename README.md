@@ -1,0 +1,2 @@
+# ide.assets
+lunarService[ide]
